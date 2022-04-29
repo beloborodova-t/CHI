@@ -1,6 +1,6 @@
-Cervical histology images with stratified squamous epithelium
+###Cervical histology images with stratified squamous epithelium
 |Image ID|Treshold lower lim|	bb_width x bb_height (3:2)|
-|---|---|---|
+|---|:---:|:---:|
 |I–1(1)|240|	900 x 600|
 |I–1(2)	|230|	900 x 600|
 |I–1(3)	|230	|900 x 600|
@@ -134,10 +134,9 @@ Cervical histology images with stratified squamous epithelium
 |I–34(2)|	230|	3000 х 1000|
 
 
-Cervical histology images without stratified squamous epithelium
-|Image ID|Processing hyperparameters|
-|	---|Treshold lower lim|	bb_width x bb_height (3:2)|
-|---|---|---|
+###Cervical histology images without stratified squamous epithelium
+|Image ID|Treshold lower lim|	bb_width x bb_height (3:2)|
+|---|:---:|:---:|
 |I–35(1)	230	1500 x 1000
 |I–35(2)	230	1500 x 1000
 |I–36(1)	230	1500 x 1000
