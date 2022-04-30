@@ -1,4 +1,4 @@
-##### MUNICIPAL NON-PROFIT ENTERPRISE «Сєвєродонецька міська багатопрофільна лікарня» Сєвєродонецької міської ради, м. Сєвєродонецьк
+##### MUNICIPAL NON-PROFIT ENTERPRISE «Severodonetsk city multidisciplinary hospital», Department of Pathology, 2018-2020
 ##### Hematoxylin and eosin stain
 ##### Magnification: 10×.
 ##### Microscope: Carl Zeiss Primo Star
