@@ -1,5 +1,5 @@
-##### MUNICIPAL NON-PROFIT ENTERPRISE «Severodonetsk city multidisciplinary hospital», Department of Pathology, 2018-2020
-##### Hematoxylin and eosin stain
+##### Histology glass slides are manufactured at MUNICIPAL NON-PROFIT ENTERPRISE «Severodonetsk city multidisciplinary hospital», Department of Pathology, in 2018-2020.
+##### Hematoxylin and eosin stain.
 ##### Magnification: 10×.
 ##### Microscope: Carl Zeiss Primo Star
 ##### Video camera: SIGETA UCMOS 
