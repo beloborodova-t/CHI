@@ -1,4 +1,4 @@
-##### Histology glass slides are manufactured at MUNICIPAL NON-PROFIT ENTERPRISE «Severodonetsk city multidisciplinary hospital», Department of Pathology, in 2018-2020, hematoxylin and eosin stain.
+##### Histology glass slides are manufactured at MUNICIPAL NON-PROFIT ENTERPRISE «Severodonetsk city multidisciplinary hospital», Department of Pathology, Severodonetsk, Ukraine, in 2018-2020, hematoxylin and eosin stain.
 ##### Microscopy images:  
 ###### Microscope: Carl Zeiss Primo Star 
 ###### Magnification: 10×
