@@ -11,7 +11,7 @@ General pipeline of cervical digital histology image processing and RoI identifi
 - (b) shaping rectangles, which are the basis of bb,
 - (d) bb extraction
 
-Parameters were used for image preprocessing and bb extraction listed in [this section](Data/CHI-I/README.md).
+Parameters were used for images preprocessing and bbs extraction listed in [this section](Data/CHI-I/README.md).
 
 ## Classification
 
