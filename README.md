@@ -10,6 +10,8 @@ General pipeline of cervical digital histology image processing and RoI identifi
 - (a) shaping piecewise curves,
 - (b) shaping rectangles, which are the basis of bb,
 - (d) bb extraction
+The following parameters were used for image preprocessing and bb extraction:
+
 ## Classification
 
 After bb extraction, a new dataset of histological image fragments is created. Depending upon the presence or absence of SSE, all extracted fragments are marked by expert with a positive class label in there any SSE, and a negative class label in the absence of SSE in the bb. The resulting dataset is used to train and test [DenseNet](https://arxiv.org/abs/1608.06993). The DenseNet is trained for 100 epochs with an Adam optimizer with a learning rate of 0.0001 under early stopping conditions. Training parameters: batch size = 128, patch size = 224. Weights are used to balance the simulation results to obtain a correct model. The model is run on [PyTorch platform](https://pytorch.org/) using nVidia GeForce RTX 2060 Super with 8GB of memory. Model training completed under 5 hours.
