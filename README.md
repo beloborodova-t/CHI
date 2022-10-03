@@ -31,5 +31,6 @@ Comparison of RoIs are annotated by experts and extracted with proposed approach
 
 ![image](https://user-images.githubusercontent.com/53811556/193572724-2fe23715-0565-45fb-85e3-5a76772db2fa.png)
 
-##How to Cite
+## How to Cite
+
 If you find this work helpful, please cite it as "[Biloborodova T., Lomakin S., Skarga-Bandurova I., Krytska Y. Region of Interest Identification in the Cervical Digital Histology Images. In: Marreiros, G., Martins, B., Paiva, A., Ribeiro, B., Sardinha, A. (eds) Progress in Artificial Intelligence. EPIA 2022. Lecture Notes in Computer Science, vol 13566, 2022, p. 133–145. Springer, Cham. https://doi.org/10.1007/978-3-031-16474-3_12.](https://link.springer.com/chapter/10.1007/978-3-031-16474-3_12)"
