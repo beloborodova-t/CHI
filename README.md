@@ -9,7 +9,7 @@ General pipeline of cervical digital histology image processing and RoI identifi
 ## Bounding box (bb) construction procedure includes:
 - (a) shaping piecewise curves,
 - (b) shaping rectangles, which are the basis of bb,
-- (d) bb extraction
+- (c) bb extraction
 
 Parameters were used for images preprocessing and bbs extraction listed in [this section](Data/CHI-I/README.md).
 
